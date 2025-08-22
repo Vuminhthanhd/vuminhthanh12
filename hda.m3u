@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="info" group-title="Info" tvg-logo="https://tv.hducanh.site/logo.png",List Ducanh 
 https://tv.hducanh.site/infolist
 --------------------------------------------------------------------------------
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 1 🔴
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 1 🇻🇳
 https://rg.hducanh.site/live1
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 2 (UHD) ⚽️
 https://rg.hducanh.site/live2
@@ -883,6 +883,7 @@ udp://@225.1.1.121:30120
 #EXTINF:0 tvg-id="" group-title="(UDP-FPT)" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping (HD 4Mbps)
 udp://@225.1.1.122:30120
 --------------------------------------------------------------------------------
+
 
 
 
