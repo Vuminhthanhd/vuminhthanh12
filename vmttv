@@ -105,21 +105,22 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTINF:-1 group-title="TVB" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 1 🔴
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 1 🇻🇳
 https://rg.hducanh.site/live1
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 2 🔴
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 2 (UHD) ⚽️
 https://rg.hducanh.site/live2
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 3 🔴
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 3-Bóng đá 1 ⚽️
 https://rg.hducanh.site/live3
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 4 🔴
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 4-Bóng đá 2 ⚽️
 https://rg.hducanh.site/live4
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 5 🔴
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 5-Bóng đá 3 ⚽️
 https://rg.hducanh.site/live5
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 6 🔴
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 6-Pool 🎱 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://rg.hducanh.site/live6
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 7 🔴
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 7-eSports 1 🎮
 https://rg.hducanh.site/live7
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 8 🔴
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 8-eSports 2 🎮
 https://rg.hducanh.site/live8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://daknong.1cdn.vn/2025/02/06/den-am-hon-review-phim-va-lich-chieu-tai-viet-nam.jpg", Đèn Âm Hồn: Người Con Gái Nam Xương
 https://s6.kkphimplayer6.com/20250811/miyJKDrj/3500kb/hls/index.m3u8
