@@ -192,7 +192,7 @@ https://vmttv.dpdns.org/tv360/mpd.php?id=9867&cdn=1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ad8e2bda9c57e69e6eb115c92d7d0d:b1e8e45770999a9207e2dbd69c71e653
-https://vmttv.dpdns.org/tv360/mpd.php?id=9868&cdn=1
+https://vmttv.dpdns.org/tv360/mpd.php?id=9868&cdn=2
 #EXTINF:-1 tvg-id="tv360plus7" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png", TV360+7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
