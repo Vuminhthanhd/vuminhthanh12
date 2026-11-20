@@ -156,7 +156,7 @@ https://rumble.com/hls-vod/OEqjG2A9If8/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/16/ca370086-3c4a-4766-a17a-13988f8d37ba-12-2560x1440.jpg&width=1280", Kế Hoạch CM12 - Tập 12
 https://rumble.com/hls-vod/hXSjLjWzXKw/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/17/7fbbfa06-9e35-43f8-8832-c6f272bf3661-13-2560x1440.jpg&width=1280", Kế Hoạch CM12 - Tập 13
-
+https://rumble.com/hls-vod/knjUjo10jPE/playlist.m3u8
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -191,7 +191,7 @@ https://vmttv.dpdns.org/tv360/mpd.php?id=9867&cdn=1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b0f9e1892864641aa17f02b2e7b0b2d:6c06f96a6296d05442466d5b09e58192
+#KODIPROP:inputstream.adaptive.license_key=
 https://vmttv.dpdns.org/tv360/mpd.php?id=9868&cdn=1
 #EXTINF:-1 tvg-id="tv360plus7" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png", TV360+7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
