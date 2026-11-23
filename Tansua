@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1, Tàn Sữa
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=421e6c1eaa0c5277a96f2cb96b4009d5:d0c02d5aac73b0ed75797a70d0273c31
-https://a26-fcdn.glxplay.io/335af63d-91b4-4212-b1a5-46ed1ce56695/e9ef24e0-824f-49bd-9d25-a5023c8dfc7b/8/d804dddadbb3e3b85ca556d81d68f77b/h264/manifest.mpd
