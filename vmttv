@@ -158,7 +158,7 @@ https://rumble.com/hls-vod/hXSjLjWzXKw/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/17/7fbbfa06-9e35-43f8-8832-c6f272bf3661-13-2560x1440.jpg&width=1280", Kế Hoạch CM12 - Tập 13
 https://rumble.com/hls-vod/knjUjo10jPE/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/18/6fd00f7e-75b2-4566-aba1-ffb33e08e81a-CM12_14-2560x1440.jpg&width=1280", Kế Hoạch CM12 - Tập 14
-
+https://rumble.com/hls-vod/wW2CmDy2C2c/playlist.m3u8
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -193,13 +193,13 @@ https://vmttv.dpdns.org/tv360/mpd.php?id=9867&cdn=1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16ad8e2bda9c57e69e6eb115c92d7d0d:b1e8e45770999a9207e2dbd69c71e653
-https://vmttv.dpdns.org/tv360/?id=tv360-6
+#KODIPROP:inputstream.adaptive.license_key=e1389121e18651169badabee05aef5ba:0b65b7091cd1474160e0de4ef106ac5d
+https://vmttv.dpdns.org/tv360/mpd.php?id=9868&cdn=1
 #EXTINF:-1 tvg-id="tv360plus7" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png", TV360+7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=072f0a0d4eda40cbb04dfadf521a2b9f:2fb11373b36e018573d3b07132df050e
+#KODIPROP:inputstream.adaptive.license_key=
 https://vmttv.dpdns.org/tv360/mpd.php?id=9869&cdn=1
 #EXTINF:-1 tvg-id="tv360plus8" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_640_360.png", TV360+8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
