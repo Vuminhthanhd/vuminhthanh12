@@ -160,7 +160,7 @@ https://rumble.com/hls-vod/knjUjo10jPE/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/18/6fd00f7e-75b2-4566-aba1-ffb33e08e81a-CM12_14-2560x1440.jpg&width=1280", Kế Hoạch CM12 - Tập 14
 https://rumble.com/hls-vod/wW2CmDy2C2c/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/18/2ef1b0f4-d010-44b2-9b82-687980ba0c42-15-2560x1440.jpg&width=1280", Kế Hoạch CM12 - Tập 15
-
+https://rumble.com/hls-vod/qwW9BTABtOg/playlist.m3u8
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -275,7 +275,7 @@ https://vmttv.dpdns.org/tv360/?id=360-anime
 https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
 #EXTINF:-1 tvg-id="360phim4k" group-title="Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/07/30/10/1785382803894/362700e9107b_640_360.png", 360 Phim 4K
 https://vmttv.dpdns.org/tv360/?id=360-phim-4k
-#EXTINF:-1
+#EXTINF:-1 tvg-id="
 #EXTINF:-1 tvg-id="360mrbean" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791858821345/520250e785d1_640_360.png", 360 Mr.bean
 https://vmttv.dpdns.org/tv360/?id=360-mr-bean
 #EXTINF:-1 tvg-id="360doraemon" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859203131/6878ad4f88c0_640_360.png", 360 Doraemon
@@ -409,7 +409,11 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd
 #EXTINF:-1 group-title="Nhà Hát Việt" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/event/2026/11/28/3b805b64-4b0a-4e98-96ef-ae95e6d90f02-Thumnail-1-Su-kien-tham-do-copy.jpg&width=1280", Sự kiện thảm đỏ vở chèo "Quan Âm Thị Kính"
 https://live-event.vtvdigital.vn/live/sk_LtMbjC9FQ1HgPd5zLp8On2nYvBK8QOXo/1080p.m3u8
 #EXTINF:-1 group-title="Nhà Hát Việt" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/28/6d827b36-e9ec-4df2-ae45-7dcb3e89f6b3-Thumnail-3-vao-vo-chinh-final-copy-2560x1440.jpg&width=1280", Trực tiếp vở chèo "Quan Âm Thị Kính" | Độc quyền trên VTVgo
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT4/manifest.mpd
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/1.png?w=800&fit=scale-down&q=85", VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/2.png?w=800&fit=scale-down&q=85", VTV2
