@@ -408,7 +408,8 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS5/Live_DASHDRM/SKSS5.mpd
 https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd
 #EXTINF:-1 group-title="Nhà Hát Việt" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/event/2026/11/28/3b805b64-4b0a-4e98-96ef-ae95e6d90f02-Thumnail-1-Su-kien-tham-do-copy.jpg&width=1280", Sự kiện thảm đỏ vở chèo "Quan Âm Thị Kính"
 
-#EXTINF:-1 group-title="Nhà Hát Việt" tvg-logo="
+#EXTINF:-1 group-title="Nhà Hát Việt" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/28/6d827b36-e9ec-4df2-ae45-7dcb3e89f6b3-Thumnail-3-vao-vo-chinh-final-copy-2560x1440.jpg&width=1280", Trực tiếp vở chèo "Quan Âm Thị Kính" | Độc quyền trên VTVgo
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/1.png?w=800&fit=scale-down&q=85", VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/2.png?w=800&fit=scale-down&q=85", VTV2
